@@ -1,3 +1,4 @@
+id_persona,nombre,primer_apellido,segundo_apellido,email
 1,Andrea,Lopez,Ramirez,andrea.lopez@gmail.com
 2,Pablo,Rodriguez,Garcia,pablo.rodriguez@hotmail.com
 3,Mariana,Gonzalez,Martinez,mariana.gonzalez@yahoo.com
@@ -76,7 +77,6 @@
 76,Alexandra,Ramirez,Garcia,alexandra.ramirez@gmail.com
 77,Carlos,Hernandez,Fernandez,carlos.hernandez@hotmail.com
 78,Martina,Rodriguez,Perez,martina.rodriguez@gmail.com
-78,Martina,Rodriguez,Perez,martina.rodriguez@yahoo.com
 79,Andrea,Hernandez,Ramirez,andrea.hernandez@gmail.com
 80,Leonardo,Ramirez,Gonzalez,leonardo.ramirez@hotmail.com
 81,Valentina,Martinez,Hernandez,valentina.martinez@yahoo.com

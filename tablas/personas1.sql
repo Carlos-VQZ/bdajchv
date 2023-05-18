@@ -7,8 +7,9 @@ CREATE TABLE personas (
 	segundo_apellido    VARCHAR(30) 	NOT NULL,
 	email               VARCHAR(30) 	NOT NULL);
 
-.mode qbox
+.mode csv
+.import -skip 1 personas.csv personas
 .headers on
-.import personas.csv personas
-    
+.mode qbox
+
 SELECT * FROM personas;
